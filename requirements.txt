@@ -1,3 +1,4 @@
 streamlit
 google-generativeai
 newspaper3k
+lxml==4.9.4
